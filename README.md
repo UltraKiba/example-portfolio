@@ -25,7 +25,7 @@ This portfolio is built using Tailwind CSS, HTML, and JavaScript to create a mod
 ## 🚀 How to Run the Project Locally**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/UltraKiba/example-portfolio.git
    ```
 2. Navigate to the project folder:  
    ```sh
